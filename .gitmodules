@@ -1,0 +1,6 @@
+[submodule "clypsy_website"]
+	path = clypsy_website
+	url = https://github.com/2003abdulhadi/clypsy_website.git
+[submodule "clypsy_app"]
+	path = clypsy_app
+	url = https://github.com/2003abdulhadi/clypsy_app.git
